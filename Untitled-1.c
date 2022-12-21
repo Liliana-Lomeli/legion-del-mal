@@ -10,5 +10,4 @@ int main(void){
     }
     printf("Introduciste %d.\n", a);
 
-    return EXIT_SUCCESS;
-}
+    return EXIT_SUCCESS
